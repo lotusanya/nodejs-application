@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://35.88.93.125:8081/repository/Husky-repo/"
+    "registry": "http://172.31.11.167:8081/repository/Husky-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
